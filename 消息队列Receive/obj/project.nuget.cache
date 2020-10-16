@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4kSxuzRCbKCHbeOyBn6qrGGrn51aRRaNLRfqgKKZH+La0zQ1KqSjYyuAUA//xbLtbk3ogSR9alwg9QzfkZi4Tw==",
+  "success": true,
+  "projectFilePath": "E:\\Personal\\消息队列\\消息队列Receive\\消息队列Receive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

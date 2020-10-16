@@ -1,0 +1,15 @@
+E:\Personal\消息队列\消息队列\bin\Debug\netcoreapp3.1\消息队列send.exe
+E:\Personal\消息队列\消息队列\obj\Debug\netcoreapp3.1\消息队列send.AssemblyInfoInputs.cache
+E:\Personal\消息队列\消息队列\obj\Debug\netcoreapp3.1\消息队列send.AssemblyInfo.cs
+E:\Personal\消息队列\消息队列\bin\Debug\netcoreapp3.1\消息队列send.deps.json
+E:\Personal\消息队列\消息队列\bin\Debug\netcoreapp3.1\消息队列send.runtimeconfig.json
+E:\Personal\消息队列\消息队列\bin\Debug\netcoreapp3.1\消息队列send.runtimeconfig.dev.json
+E:\Personal\消息队列\消息队列\bin\Debug\netcoreapp3.1\消息队列send.dll
+E:\Personal\消息队列\消息队列\bin\Debug\netcoreapp3.1\消息队列send.pdb
+E:\Personal\消息队列\消息队列\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\Personal\消息队列\消息队列\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\Personal\消息队列\消息队列\obj\Debug\netcoreapp3.1\消息队列send.csproj.CoreCompileInputs.cache
+E:\Personal\消息队列\消息队列\obj\Debug\netcoreapp3.1\消息队列send.csproj.CopyComplete
+E:\Personal\消息队列\消息队列\obj\Debug\netcoreapp3.1\消息队列send.dll
+E:\Personal\消息队列\消息队列\obj\Debug\netcoreapp3.1\消息队列send.pdb
+E:\Personal\消息队列\消息队列\obj\Debug\netcoreapp3.1\消息队列send.genruntimeconfig.cache
